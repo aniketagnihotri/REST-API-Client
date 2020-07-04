@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class YelpService {
 
     private final String URL = "https://api.yelp.com/v3/businesses/search?";
-    private final String ACCESS_TOKEN = "(insert personal api token here)";
+    private final String ACCESS_TOKEN = "cwzzLM8QtCjZ8LgGT0AU_CbX3NPFtoXWeaFAYLhXeAeVIRcizK0Ie699l6hr2Kt4j9nt5BvlgsoPrrR6g7qA4kGv-jaDdQuOWNBCCQ-4TuHaqDNtixhSkiU7Pzf5XnYx";
     private ArrayList<YelpBusiness> yelpBusinesses = new ArrayList<>();
 
     public ArrayList<YelpBusiness> getAllBusinesses() {
