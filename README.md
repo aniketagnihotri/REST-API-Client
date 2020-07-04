@@ -1,6 +1,6 @@
 # API-Interface
 
-A simple Spring interface written to send GET requests to multiple APIs.
+A Spring interface written to send GET requests to multiple APIs.
 
 Visit https://rest-api-client-test.herokuapp.com/ as a starting URL.
 
